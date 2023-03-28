@@ -5,8 +5,8 @@
     justify-content: space-around;
 }
 
-.cabecalho-imagem{
-    width: 20%; 
+.cabecalho-imagem{ 
+    width: 20%;
 }
 
 .cabecalho-lista-item{
@@ -17,6 +17,15 @@
 }   
 
 * {
-    margin: 0;      
-    padding: 0;
+    margin: 0 16px;      
+    padding: 24px 0;
+}
+
+.imagem-escola {
+    width: 20%;
+}
+
+.escola {
+    background-image: linear-gradient(#383D58,#04abf9);
+    color:white;
 }
